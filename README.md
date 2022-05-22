@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![jikwon's 42 stats](https://badge42.vercel.app/api/v2/cl2eg1gko005409lap2puhldw/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+
+
+![jikwon101's github stats](https://github-readme-stats.vercel.app/api?username=jikwon101&show_icons=true)
